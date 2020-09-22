@@ -1,2 +1,1 @@
-# Medicare
-Online Medicine Selling Website
+This is a online medicine selling website
